@@ -1,0 +1,2 @@
+2025-08-15 23:49:10[ERROR] Formatter 'stylua' error: error: could not format from stdin: failed to format from stdin: error parsing: unexpected token `vim` (171:1 to 171:4), unexpected expression when looking for a statement
+
